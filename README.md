@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhishant02
+- 👋 Hi, I’m Bhishant
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning Data anlayst profetional program on coursera
 - 💞️ I’m looking to collaborate on any data analyst on git hub
